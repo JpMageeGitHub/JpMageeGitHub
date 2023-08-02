@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">A passionate data analyst from NC</h3>
+<h3 align="center">A passionate, mathematically driven data analyst from NC</h3>
 
 - 🔭 I’m currently working on **Data Analytics Boot Camp**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeremy.magee@gmail.com**
 
-- ⚡ Fun fact **I'm left handed, and I'm kind of funny**
+- ⚡ Fun facts **I'm left handed, a massive Spider-Man fan and I'm kind of funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
