@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">A passionate, mathematically driven data scientist from NC</h3>
 
-- 🔭 I’m currently working on **Data Analytics Boot Camp**
+- 🔭 I’m currently working on finishing my journey in Data Analytics Boot Camp
+- 🌱 I’m currently learning **Flask, Javascript, Front/Backend Applications**
 
-- 🌱 I’m currently learning **Python, Jupyter, pandas, SQL, Splinter**
-
-- 👯 I’m looking to collaborate on **Sports Analytics**
+- 👯 I’m looking to collaborate on **Sports Analytics, Data-Driven Decision Making**
 
 - 📫 How to reach me **jeremy.magee@gmail.com**
 
