@@ -2,9 +2,9 @@
 <h3 align="center">A passionate, mathematically driven data scientist from NC</h3>
 
 - 🔭 I’m currently working on finishing my journey in Data Analytics Boot Camp
-- 🌱 I’m currently learning **Flask, Javascript, Front/Backend Applications**
+- 🌱 I’m currently learning **LLM, Decision Trees**
 
-- 👯 I’m looking to collaborate on **Sports Analytics, Data-Driven Decision Making**
+- 👯 I’m looking to work with an emphasis on **Sports Analytics, Data-Driven Decision Making, Data Analytics**
 
 - 📫 How to reach me **jeremy.magee@gmail.com**
 
