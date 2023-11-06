@@ -2,7 +2,7 @@
 <h3 align="center">A passionate, mathematically driven data scientist from NC</h3>
 
 - 🔭 I’m currently working on finishing my journey in Data Analytics Boot Camp
-- 🌱 I’m currently learning **LLM, Decision Trees**
+- 🌱 I’m currently learning **LLM, Deep Learning, and Machine Learning Pipelines**
 
 - 👯 I’m looking to work with an emphasis on **Sports Analytics, Data-Driven Decision Making, Data Analytics**
 
