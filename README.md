@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">A passionate, mathematically driven data scientist from NC</h3>
 
-- 🔭 I’m currently working on finishing my journey in Data Analytics Boot Camp
-- 🌱 I’m currently learning **LLM, Deep Learning, and Machine Learning Pipelines**
+- 🔭 I’m currently looking for employment in Data Analytics
+- 🌱 I’m currently learning **R, LLM, Lighthouse Mechanics, and Machine Learning Pipelines**
 
 - 👯 I’m looking to work with an emphasis on **Sports Analytics, Data-Driven Decision Making, Data Analytics**
 
 - 📫 How to reach me **jeremy.magee@gmail.com**
 
-- ⚡ Fun facts **I'm left handed, a massive Spider-Man fan and I'm kind of funny**
+- ⚡ Fun facts **I'm left handed, a massive Spider-Man fan, a constant learner, and I'm kind of funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
